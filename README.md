@@ -13,3 +13,5 @@ the system uses:
 
 2 servos are used for the arm, the third is used to lift the arm so the pen does not write.
 We use a dry erase board and use the linear actuator to delete the previous time.
+
+timelapse: https://www.youtube.com/watch?v=Pwm5O0Vulfs
